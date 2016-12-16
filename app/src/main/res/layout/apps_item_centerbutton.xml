@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oguzdev.circularfloatingactionmenu.library.FloatingActionButton
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/px_positive_300"
+    android:layout_height="@dimen/px_positive_210">
+
+</com.oguzdev.circularfloatingactionmenu.library.FloatingActionButton>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~  Copyright (c) 2016.  Project Launcher2
+  ~  Source arrays.xml
+  ~  Author 沈煜
+  ~  此源码及相关文档等附件由 沈煜 编写，作者保留所有权利
+  ~  使用必须注明出处。
+  ~  The code and documents is write by the author. All rights are reserved.
+  ~  Use must indicate the source.
+  ~
+  -->
+
+<resources>
+
+    <array name="appBackgroundColors">
+        <item>@color/color1</item>
+        <item>@color/color2</item>
+        <item>@color/color3</item>
+        <item>@color/color4</item>
+        <item>@color/color5</item>
+        <item>@color/color6</item>
+        <item>@color/color7</item>
+        <item>@color/color8</item>
+        <item>@color/color9</item>
+        <item>@color/color10</item>
+        <item>@color/color11</item>
+        <item>@color/color12</item>
+        <item>@color/color13</item>
+        <item>@color/color14</item>
+        <item>@color/color15</item>
+        <item>@color/color16</item>
+        <item>@color/color17</item>
+        <item>@color/color18</item>
+    </array>
+
+    <string-array name="detailCategory">
+        <item>生命教育</item>
+        <item>情绪管理</item>
+        <item>生活习惯</item>
+        <item>社会交际</item>
+        <item>行为习惯</item>
+        <item>科普系列</item>
+        <item>品格养成</item>
+        <item>艺术创想</item>
+        <item>职业</item>
+    </string-array>
+
+    <string-array name="detailCategory2">
+        <item>儿歌</item>
+        <item>形状</item>
+        <item>颜色</item>
+        <item>水果</item>
+        <item>动物</item>
+        <item>蔬菜</item>
+        <item>生活用品</item>
+        <item>身体部位</item>
+        <item>奥尔夫音乐</item>
+        <item>绘本歌曲</item>
+    </string-array>
+
+</resources>

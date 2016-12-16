@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FABDemo</string>
+    <string name="hello_app">Hello APP</string>
+
+    <string name="edit_clear_cache">清除缓存</string>
+    <string name="edit_remove_app">卸载</string>
+    <string name="edit_clear_data">清除数据</string>
+    <string name="edit_change_position">移动位置</string>
+</resources>

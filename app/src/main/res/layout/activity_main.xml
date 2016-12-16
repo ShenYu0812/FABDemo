@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/home_background">
+
+    <ImageView
+        android:id="@+id/image_edit"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="#BF000000"
+        android:contentDescription="@null"
+        android:visibility="invisible"/>
+
+    <com.jiuzhou.demo.fabdemo.SimpleRecyclerView
+        android:id="@+id/home_apps"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/px_positive_750"
+        android:layout_marginLeft="@dimen/px_positive_80"
+        android:layout_marginRight="@dimen/px_positive_80"
+        android:layout_centerVertical="true"
+        android:scrollbars="none" />
+</RelativeLayout>
